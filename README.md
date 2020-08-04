@@ -1,1 +1,1 @@
-# projeck-ku
+# projeck
